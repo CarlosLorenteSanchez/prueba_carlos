@@ -1,0 +1,806 @@
+[17/10/2022 12:49:27] Application starting
+[17/10/2022 12:49:27] version 1.6.11.1773
+[17/10/2022 12:49:27] FL path is "C:\Program Files\Image-Line\FL Studio 20\"
+[17/10/2022 12:49:27] Plugin database path is "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\"
+[17/10/2022 12:49:27] LoadExistingPresets
+[17/10/2022 12:49:27]     Clear
+[17/10/2022 12:49:27]     Finished (LoadExistingPresets) - count=0
+[17/10/2022 12:49:29] Scan
+[17/10/2022 12:49:29]   [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\
+[17/10/2022 12:49:29]   [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\
+[17/10/2022 12:49:29]   [VST] C:\Program Files (x86)\VstPlugins\
+[17/10/2022 12:49:29]   [VST] C:\Program Files\Common Files\VST2\
+[17/10/2022 12:49:29]   [VST] C:\Program Files\Image-Line\FL Studio 20\Plugins\VST\
+[17/10/2022 12:49:29]   [VST3] C:\Program Files\Common Files\VST3\
+[17/10/2022 12:49:29]   Options: noscannerexe verify store bridge threaded
+[17/10/2022 12:49:29] Scan - internal
+[17/10/2022 12:49:29]     LoadExistingPresets
+[17/10/2022 12:49:29]         Clear
+[17/10/2022 12:49:29]         Finished (LoadExistingPresets) - count=0
+[17/10/2022 12:49:29]     Loaded existing presets - count=0
+[17/10/2022 12:49:29]     Ensure plugins still exist
+[17/10/2022 12:49:29]     Deleted missing presets - count=0
+[17/10/2022 12:49:29]     Find files
+[17/10/2022 12:49:29]     Find plugins
+[17/10/2022 12:49:29]         Scanning FL
+[17/10/2022 12:49:29]             Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\
+[17/10/2022 12:49:29]             search path: C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\
+[17/10/2022 12:49:29]             Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\
+[17/10/2022 12:49:29]             search path: C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\
+[17/10/2022 12:49:29]             Found 235 plugins
+[17/10/2022 12:49:29]             Finished (FL)
+[17/10/2022 12:49:29]         Scanning VST
+[17/10/2022 12:49:29]             Scanning... [VST] C:\Program Files (x86)\VstPlugins\
+[17/10/2022 12:49:29]             search path: C:\Program Files (x86)\VstPlugins\
+[17/10/2022 12:49:30]             Scanning... [VST] C:\Program Files\Common Files\VST2\
+[17/10/2022 12:49:30]             search path: C:\Program Files\Common Files\VST2\
+[17/10/2022 12:49:30]             Scanning... [VST] C:\Program Files\Image-Line\FL Studio 20\Plugins\VST\
+[17/10/2022 12:49:30]             search path: C:\Program Files\Image-Line\FL Studio 20\Plugins\VST\
+[17/10/2022 12:49:30]             Found 4 plugins
+[17/10/2022 12:49:30]             Finished (VST)
+[17/10/2022 12:49:30]         Scanning VST3
+[17/10/2022 12:49:30]             Scanning... [VST3] C:\Program Files\Common Files\VST3\
+[17/10/2022 12:49:30]             search path: C:\Program Files\Common Files\VST3\
+[17/10/2022 12:49:31]             Found 5 plugins
+[17/10/2022 12:49:31]             Finished (VST3)
+[17/10/2022 12:49:31]         Finished (find plugins)
+[17/10/2022 12:49:31]     Verify plugins
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Control Surface\Control Surface.dll
+[17/10/2022 12:49:31]     [verified] "Control Surface" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Control Surface\Control Surface_x64.dll
+[17/10/2022 12:49:31]     [verified] "Control Surface" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Distructor\Distructor.dll
+[17/10/2022 12:49:31]     [verified] "Distructor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Distructor\Distructor_x64.dll
+[17/10/2022 12:49:31]     [verified] "Distructor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Edison\Edison.dll
+[17/10/2022 12:49:31]     [verified] "Edison" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Edison\Edison_x64.dll
+[17/10/2022 12:49:31]     [verified] "Edison" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Effector\Effector.dll
+[17/10/2022 12:49:31]     [verified] "Effector" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Effector\Effector_x64.dll
+[17/10/2022 12:49:31]     [verified] "Effector" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\EQUO\EQUO.dll
+[17/10/2022 12:49:31]     [verified] "EQUO" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\EQUO\EQUO_x64.dll
+[17/10/2022 12:49:31]     [verified] "EQUO" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity 7 Band EQ\Fruity 7 Band EQ.dll
+[17/10/2022 12:49:31]     [verified] "Fruity 7 Band EQ" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity 7 Band EQ\Fruity 7 Band EQ_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity 7 Band EQ" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Balance\Fruity Balance.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Balance" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Balance\Fruity Balance_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Balance" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Bass Boost\Fruity Bass Boost.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Bass Boost" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Bass Boost\Fruity Bass Boost_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Bass Boost" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Big Clock\Fruity Big Clock.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Big Clock" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Big Clock\Fruity Big Clock_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Big Clock" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Blood Overdrive\Fruity Blood Overdrive.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Blood Overdrive" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Blood Overdrive\Fruity Blood Overdrive_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Blood Overdrive" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Center\Fruity Center.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Center" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Center\Fruity Center_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Center" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Chorus\Fruity Chorus.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Chorus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Chorus\Fruity Chorus_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Chorus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Compressor\Fruity Compressor.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Compressor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Compressor\Fruity Compressor_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Compressor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Convolver\Fruity Convolver.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Convolver" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Convolver\Fruity Convolver_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Convolver" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity dB Meter\Fruity dB Meter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity dB Meter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity dB Meter\Fruity dB Meter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity dB Meter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay\Fruity Delay.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay\Fruity Delay_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay 2\Fruity Delay 2.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay 2\Fruity Delay 2_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay 3\Fruity Delay 3.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay 3" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay 3\Fruity Delay 3_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay 3" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay Bank\Fruity Delay Bank.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay Bank" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Delay Bank\Fruity Delay Bank_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Delay Bank" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Fast Dist\Fruity Fast Dist.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Fast Dist" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Fast Dist\Fruity Fast Dist_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Fast Dist" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Fast LP\Fruity Fast LP.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Fast LP" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Fast LP\Fruity Fast LP_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Fast LP" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Filter\Fruity Filter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Filter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Filter\Fruity Filter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Filter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Flanger\Fruity Flanger.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Flanger" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Flanger\Fruity Flanger_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Flanger" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Flangus\Fruity Flangus.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Flangus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Flangus\Fruity Flangus_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Flangus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Formula Controller\Fruity Formula Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Formula Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Formula Controller\Fruity Formula Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Formula Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Free Filter\Fruity Free Filter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Free Filter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Free Filter\Fruity Free Filter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Free Filter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity HTML NoteBook\Fruity HTML NoteBook.dll
+[17/10/2022 12:49:31]     [verified] "Fruity HTML NoteBook" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity HTML NoteBook\Fruity HTML NoteBook_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity HTML NoteBook" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Limiter\Fruity Limiter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Limiter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Limiter\Fruity Limiter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Limiter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Love Philter\Fruity Love Philter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Love Philter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Love Philter\Fruity Love Philter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Love Philter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity LSD\Fruity LSD.dll
+[17/10/2022 12:49:31]     [verified] "Fruity LSD" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity LSD\Fruity LSD_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity LSD" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Multiband Compressor\Fruity Multiband Compressor.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Multiband Compressor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Multiband Compressor\Fruity Multiband Compressor_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Multiband Compressor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Mute 2\Fruity Mute 2.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Mute 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Mute 2\Fruity Mute 2_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Mute 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity NoteBook\Fruity NoteBook.dll
+[17/10/2022 12:49:31]     [verified] "Fruity NoteBook" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity NoteBook\Fruity NoteBook_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity NoteBook" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity NoteBook 2\Fruity NoteBook 2.dll
+[17/10/2022 12:49:31]     [verified] "Fruity NoteBook 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity NoteBook 2\Fruity NoteBook 2_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity NoteBook 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity PanOMatic\Fruity PanOMatic.dll
+[17/10/2022 12:49:31]     [verified] "Fruity PanOMatic" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity PanOMatic\Fruity PanOMatic_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity PanOMatic" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Parametric EQ\Fruity Parametric EQ.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Parametric EQ" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Parametric EQ\Fruity Parametric EQ_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Parametric EQ" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Parametric EQ 2\Fruity Parametric EQ 2.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Parametric EQ 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Parametric EQ 2\Fruity Parametric EQ 2_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Parametric EQ 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Peak Controller\Fruity Peak Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Peak Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Peak Controller\Fruity Peak Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Peak Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Phase Inverter\Fruity Phase Inverter.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Phase Inverter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Phase Inverter\Fruity Phase Inverter_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Phase Inverter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Phaser\Fruity Phaser.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Phaser" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Phaser\Fruity Phaser_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Phaser" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Reeverb\Fruity Reeverb.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Reeverb" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Reeverb\Fruity Reeverb_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Reeverb" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Reeverb 2\Fruity Reeverb 2.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Reeverb 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Reeverb 2\Fruity Reeverb 2_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Reeverb 2" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Scratcher\Fruity Scratcher.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Scratcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Scratcher\Fruity Scratcher_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Scratcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Send\Fruity Send.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Send" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Send\Fruity Send_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Send" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Soft Clipper\Fruity Soft Clipper.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Soft Clipper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Soft Clipper\Fruity Soft Clipper_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Soft Clipper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Spectroman\Fruity Spectroman.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Spectroman" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Spectroman\Fruity Spectroman_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Spectroman" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Squeeze\Fruity Squeeze.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Squeeze" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Squeeze\Fruity Squeeze_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Squeeze" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Stereo Enhancer\Fruity Stereo Enhancer.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Stereo Enhancer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Stereo Enhancer\Fruity Stereo Enhancer_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Stereo Enhancer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Stereo Shaper\Fruity Stereo Shaper.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Stereo Shaper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Stereo Shaper\Fruity Stereo Shaper_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Stereo Shaper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Vocoder\Fruity Vocoder.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Vocoder" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Vocoder\Fruity Vocoder_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Vocoder" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity WaveShaper\Fruity WaveShaper.dll
+[17/10/2022 12:49:31]     [verified] "Fruity WaveShaper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity WaveShaper\Fruity WaveShaper_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity WaveShaper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Wrapper\Fruity Wrapper.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Wrapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity Wrapper\Fruity Wrapper_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Wrapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity X-Y Controller\Fruity X-Y Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity X-Y Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity X-Y Controller\Fruity X-Y Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity X-Y Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity X-Y-Z Controller\Fruity X-Y-Z Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity X-Y-Z Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Fruity X-Y-Z Controller\Fruity X-Y-Z Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity X-Y-Z Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Gross Beat\Gross Beat.dll
+[17/10/2022 12:49:31]     [verified] "Gross Beat" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Gross Beat\Gross Beat_x64.dll
+[17/10/2022 12:49:31]     [verified] "Gross Beat" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Hardcore\Hardcore.dll
+[17/10/2022 12:49:31]     [verified] "Hardcore" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Hardcore\Hardcore_x64.dll
+[17/10/2022 12:49:31]     [verified] "Hardcore" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Maximus\Maximus.dll
+[17/10/2022 12:49:31]     [verified] "Maximus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Maximus\Maximus_x64.dll
+[17/10/2022 12:49:31]     [verified] "Maximus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Newtime\Newtime.dll
+[17/10/2022 12:49:31]     [verified] "Newtime" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Newtime\Newtime_x64.dll
+[17/10/2022 12:49:31]     [verified] "Newtime" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Newtone\Newtone.dll
+[17/10/2022 12:49:31]     [verified] "Newtone" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Newtone\Newtone_x64.dll
+[17/10/2022 12:49:31]     [verified] "Newtone" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Patcher\Patcher.dll
+[17/10/2022 12:49:31]     [verified] "Patcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Patcher\Patcher_x64.dll
+[17/10/2022 12:49:31]     [verified] "Patcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Pitcher\Pitcher.dll
+[17/10/2022 12:49:31]     [verified] "Pitcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Pitcher\Pitcher_x64.dll
+[17/10/2022 12:49:31]     [verified] "Pitcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Razer Chroma\Razer Chroma.dll
+[17/10/2022 12:49:31]     [verified] "Razer Chroma" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Razer Chroma\Razer Chroma_x64.dll
+[17/10/2022 12:49:31]     [verified] "Razer Chroma" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Soundgoodizer\Soundgoodizer.dll
+[17/10/2022 12:49:31]     [verified] "Soundgoodizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Soundgoodizer\Soundgoodizer_x64.dll
+[17/10/2022 12:49:31]     [verified] "Soundgoodizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Transient Processor\Transient Processor.dll
+[17/10/2022 12:49:31]     [verified] "Transient Processor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Transient Processor\Transient Processor_x64.dll
+[17/10/2022 12:49:31]     [verified] "Transient Processor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Color Mapper\VFX Color Mapper.dll
+[17/10/2022 12:49:31]     [verified] "VFX Color Mapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Color Mapper\VFX Color Mapper_x64.dll
+[17/10/2022 12:49:31]     [verified] "VFX Color Mapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Envelope\VFX Envelope.dll
+[17/10/2022 12:49:31]     [verified] "VFX Envelope" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Envelope\VFX Envelope_x64.dll
+[17/10/2022 12:49:31]     [verified] "VFX Envelope" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Key Mapper\VFX Key Mapper.dll
+[17/10/2022 12:49:31]     [verified] "VFX Key Mapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Key Mapper\VFX Key Mapper_x64.dll
+[17/10/2022 12:49:31]     [verified] "VFX Key Mapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Keyboard Splitter\VFX Keyboard Splitter.dll
+[17/10/2022 12:49:31]     [verified] "VFX Keyboard Splitter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Keyboard Splitter\VFX Keyboard Splitter_x64.dll
+[17/10/2022 12:49:31]     [verified] "VFX Keyboard Splitter" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Level Scaler\VFX Level Scaler.dll
+[17/10/2022 12:49:31]     [verified] "VFX Level Scaler" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\VFX Level Scaler\VFX Level Scaler_x64.dll
+[17/10/2022 12:49:31]     [verified] "VFX Level Scaler" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Vocodex\Vocodex.dll
+[17/10/2022 12:49:31]     [verified] "Vocodex" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Vocodex\Vocodex_x64.dll
+[17/10/2022 12:49:31]     [verified] "Vocodex" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Wave Candy\Wave Candy.dll
+[17/10/2022 12:49:31]     [verified] "Wave Candy" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\Wave Candy\Wave Candy_x64.dll
+[17/10/2022 12:49:31]     [verified] "Wave Candy" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\ZGameEditor Visualizer\ZGameEditor Visualizer.dll
+[17/10/2022 12:49:31]     [verified] "ZGameEditor Visualizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Effects\ZGameEditor Visualizer\ZGameEditor Visualizer_x64.dll
+[17/10/2022 12:49:31]     [verified] "ZGameEditor Visualizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\3x Osc\3x Osc.dll
+[17/10/2022 12:49:31]     [verified] "3x Osc" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\3x Osc\3x Osc_x64.dll
+[17/10/2022 12:49:31]     [verified] "3x Osc" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Autogun\Autogun.dll
+[17/10/2022 12:49:31]     [verified] "Autogun" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Autogun\Autogun_x64.dll
+[17/10/2022 12:49:31]     [verified] "Autogun" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BassDrum\BassDrum.dll
+[17/10/2022 12:49:31]     [verified] "BassDrum" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BassDrum\BassDrum_x64.dll
+[17/10/2022 12:49:31]     [verified] "BassDrum" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BeepMap\BeepMap.dll
+[17/10/2022 12:49:31]     [verified] "BeepMap" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BeepMap\BeepMap_x64.dll
+[17/10/2022 12:49:31]     [verified] "BeepMap" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BooBass\BooBass.dll
+[17/10/2022 12:49:31]     [verified] "BooBass" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\BooBass\BooBass_x64.dll
+[17/10/2022 12:49:31]     [verified] "BooBass" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard.dll
+[17/10/2022 12:49:31]     [verified] "Dashboard" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Dashboard\Dashboard_x64.dll
+[17/10/2022 12:49:31]     [verified] "Dashboard" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\DirectWave\DirectWave.dll
+[17/10/2022 12:49:31]     [verified] "DirectWave" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\DirectWave\DirectWave_x64.dll
+[17/10/2022 12:49:31]     [verified] "DirectWave" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Drumaxx\Drumaxx.dll
+[17/10/2022 12:49:31]     [verified] "Drumaxx" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Drumaxx\Drumaxx_x64.dll
+[17/10/2022 12:49:31]     [verified] "Drumaxx" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Drumpad\Drumpad.dll
+[17/10/2022 12:49:31]     [verified] "Drumpad" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Drumpad\Drumpad_x64.dll
+[17/10/2022 12:49:31]     [verified] "Drumpad" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Keys\FL Keys.dll
+[17/10/2022 12:49:31]     [verified] "FL Keys" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Keys\FL Keys_x64.dll
+[17/10/2022 12:49:31]     [verified] "FL Keys" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Slayer\FL Slayer.dll
+[17/10/2022 12:49:31]     [verified] "FL Slayer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Slayer\FL Slayer_x64.dll
+[17/10/2022 12:49:31]     [verified] "FL Slayer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Studio Mobile\FL Studio Mobile.dll
+[17/10/2022 12:49:31]     [verified] "FL Studio Mobile" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FL Studio Mobile\FL Studio Mobile_x64.dll
+[17/10/2022 12:49:31]     [verified] "FL Studio Mobile" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FLEX\FLEX.dll
+[17/10/2022 12:49:31]     [verified] "FLEX" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FLEX\FLEX_x64.dll
+[17/10/2022 12:49:31]     [verified] "FLEX" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FPC\FPC.dll
+[17/10/2022 12:49:31]     [verified] "FPC" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\FPC\FPC_x64.dll
+[17/10/2022 12:49:31]     [verified] "FPC" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruit Kick\Fruit Kick.dll
+[17/10/2022 12:49:31]     [verified] "Fruit Kick" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruit Kick\Fruit Kick_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruit Kick" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Dance\Fruity Dance.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Dance" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Dance\Fruity Dance_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Dance" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity DrumSynth Live\Fruity DrumSynth Live.dll
+[17/10/2022 12:49:31]     [verified] "Fruity DrumSynth Live" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity DrumSynth Live\Fruity DrumSynth Live_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity DrumSynth Live" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity DX10\Fruity DX10.dll
+[17/10/2022 12:49:31]     [verified] "Fruity DX10" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity DX10\Fruity DX10_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity DX10" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Envelope Controller\Fruity Envelope Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Envelope Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Envelope Controller\Fruity Envelope Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Envelope Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Granulizer\Fruity Granulizer.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Granulizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Granulizer\Fruity Granulizer_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Granulizer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Keyboard Controller\Fruity Keyboard Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Keyboard Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Keyboard Controller\Fruity Keyboard Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Keyboard Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Slicer\Fruity Slicer.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Slicer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Slicer\Fruity Slicer_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Slicer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Soundfont Player\Fruity Soundfont Player.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Soundfont Player" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Video Player\Fruity Video Player.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Video Player" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Video Player\Fruity Video Player_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Video Player" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Voltage Controller\Fruity Voltage Controller.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Voltage Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Voltage Controller\Fruity Voltage Controller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Voltage Controller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Wrapper\Fruity Wrapper.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Wrapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Fruity Wrapper\Fruity Wrapper_x64.dll
+[17/10/2022 12:49:31]     [verified] "Fruity Wrapper" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\GMS\GMS.dll
+[17/10/2022 12:49:31]     [verified] "GMS" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\GMS\GMS_x64.dll
+[17/10/2022 12:49:31]     [verified] "GMS" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Harmless\Harmless.dll
+[17/10/2022 12:49:31]     [verified] "Harmless" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Harmless\Harmless_x64.dll
+[17/10/2022 12:49:31]     [verified] "Harmless" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Harmor\Harmor.dll
+[17/10/2022 12:49:31]     [verified] "Harmor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Harmor\Harmor_x64.dll
+[17/10/2022 12:49:31]     [verified] "Harmor" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\MIDI Out\MIDI Out.dll
+[17/10/2022 12:49:31]     [verified] "MIDI Out" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\MIDI Out\MIDI Out_x64.dll
+[17/10/2022 12:49:31]     [verified] "MIDI Out" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\MiniSynth\MiniSynth.dll
+[17/10/2022 12:49:31]     [verified] "MiniSynth" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\MiniSynth\MiniSynth_x64.dll
+[17/10/2022 12:49:31]     [verified] "MiniSynth" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Morphine\Morphine.dll
+[17/10/2022 12:49:31]     [verified] "Morphine" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Morphine\Morphine_x64.dll
+[17/10/2022 12:49:31]     [verified] "Morphine" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Ogun\Ogun.dll
+[17/10/2022 12:49:31]     [verified] "Ogun" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Ogun\Ogun_x64.dll
+[17/10/2022 12:49:31]     [verified] "Ogun" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Patcher\Patcher.dll
+[17/10/2022 12:49:31]     [verified] "Patcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Patcher\Patcher_x64.dll
+[17/10/2022 12:49:31]     [verified] "Patcher" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Plucked!\Plucked!.dll
+[17/10/2022 12:49:31]     [verified] "Plucked!" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Plucked!\Plucked!_x64.dll
+[17/10/2022 12:49:31]     [verified] "Plucked!" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\PoiZone\PoiZone.dll
+[17/10/2022 12:49:31]     [verified] "PoiZone" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\PoiZone\PoiZone_x64.dll
+[17/10/2022 12:49:31]     [verified] "PoiZone" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\ReWired\ReWired.dll
+[17/10/2022 12:49:31]     [verified] "ReWired" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\ReWired\ReWired_x64.dll
+[17/10/2022 12:49:31]     [verified] "ReWired" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sakura\Sakura.dll
+[17/10/2022 12:49:31]     [verified] "Sakura" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sakura\Sakura_x64.dll
+[17/10/2022 12:49:31]     [verified] "Sakura" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sawer\Sawer.dll
+[17/10/2022 12:49:31]     [verified] "Sawer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sawer\Sawer_x64.dll
+[17/10/2022 12:49:31]     [verified] "Sawer" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\SimSynth\SimSynth.dll
+[17/10/2022 12:49:31]     [verified] "SimSynth" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\SimSynth\SimSynth_x64.dll
+[17/10/2022 12:49:31]     [verified] "SimSynth" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Slicex\Slicex.dll
+[17/10/2022 12:49:31]     [verified] "Slicex" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Slicex\Slicex_x64.dll
+[17/10/2022 12:49:31]     [verified] "Slicex" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sytrus\Sytrus.dll
+[17/10/2022 12:49:31]     [verified] "Sytrus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Sytrus\Sytrus_x64.dll
+[17/10/2022 12:49:31]     [verified] "Sytrus" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Toxic Biohazard\Toxic Biohazard.dll
+[17/10/2022 12:49:31]     [verified] "Toxic Biohazard" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Toxic Biohazard\Toxic Biohazard_x64.dll
+[17/10/2022 12:49:31]     [verified] "Toxic Biohazard" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Transistor Bass\Transistor Bass.dll
+[17/10/2022 12:49:31]     [verified] "Transistor Bass" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Transistor Bass\Transistor Bass_x64.dll
+[17/10/2022 12:49:31]     [verified] "Transistor Bass" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Wasp\Wasp.dll
+[17/10/2022 12:49:31]     [verified] "Wasp" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Wasp XT\Wasp XT.dll
+[17/10/2022 12:49:31]     [verified] "Wasp XT" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Wave Traveller\Wave Traveller.dll
+[17/10/2022 12:49:31]     [verified] "Wave Traveller" idx=0
+[17/10/2022 12:49:31]     Scanning... [FL] C:\Program Files\Image-Line\FL Studio 20\Plugins\Fruity\Generators\Wave Traveller\Wave Traveller_x64.dll
+[17/10/2022 12:49:31]     [verified] "Wave Traveller" idx=0
+[17/10/2022 12:49:31]     Scanning... [VST] C:\Program Files (x86)\VstPlugins\FL Studio VSTi (Multi).dll
+[17/10/2022 12:49:31]     Verify plugin - C:\Program Files (x86)\VstPlugins\FL Studio VSTi (Multi).dll
+[17/10/2022 12:49:40]     [verified] "FL Studio VSTi (multi)"
+[17/10/2022 12:49:40]     Scanning... [VST] C:\Program Files (x86)\VstPlugins\FL Studio VSTi.dll
+[17/10/2022 12:49:40]     Verify plugin - C:\Program Files (x86)\VstPlugins\FL Studio VSTi.dll
+[17/10/2022 12:49:46]     [verified] "FL Studio VSTi"
+[17/10/2022 12:49:47]     Scanning... [VST] C:\Program Files\Common Files\VST2\FL Studio VSTi (Multi).dll
+[17/10/2022 12:49:47]     Verify plugin - C:\Program Files\Common Files\VST2\FL Studio VSTi (Multi).dll
+[17/10/2022 12:49:53]     [verified] "FL Studio VSTi (multi)"
+[17/10/2022 12:49:54]     Scanning... [VST] C:\Program Files\Common Files\VST2\FL Studio VSTi.dll
+[17/10/2022 12:49:54]     Verify plugin - C:\Program Files\Common Files\VST2\FL Studio VSTi.dll
+[17/10/2022 12:50:00]     [verified] "FL Studio VSTi"
+[17/10/2022 12:50:01]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Antares\Auto-Key.vst3
+[17/10/2022 12:50:01]     Verify plugin - C:\Program Files\Common Files\VST3\Antares\Auto-Key.vst3
+[17/10/2022 12:50:02]     [verified] "Auto-Key"
+[17/10/2022 12:50:02]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Antares\Auto-Tune Access.vst3
+[17/10/2022 12:50:02]     Verify plugin - C:\Program Files\Common Files\VST3\Antares\Auto-Tune Access.vst3
+[17/10/2022 12:50:06]     [verified] "Auto-Tune Access"
+[17/10/2022 12:50:06]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Antares\Auto-Tune Artist.vst3
+[17/10/2022 12:50:06]     Verify plugin - C:\Program Files\Common Files\VST3\Antares\Auto-Tune Artist.vst3
+[17/10/2022 12:50:09]     [verified] "Auto-Tune Artist"
+[17/10/2022 12:50:10]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Antares\Auto-Tune EFX.vst3
+[17/10/2022 12:50:10]     Verify plugin - C:\Program Files\Common Files\VST3\Antares\Auto-Tune EFX.vst3
+[17/10/2022 12:50:12]     [verified] "Auto-Tune EFX"
+[17/10/2022 12:50:12]     Scanning... [VST3] C:\Program Files\Common Files\VST3\Antares\Auto-Tune.vst3
+[17/10/2022 12:50:12]     Verify plugin - C:\Program Files\Common Files\VST3\Antares\Auto-Tune.vst3
+[17/10/2022 12:50:12]     [verified] "Auto-Tune Pro"
+[17/10/2022 12:50:13]     Add plugins to list
+[17/10/2022 12:50:13]     Clean up plugin names
+[17/10/2022 12:50:13]     Added new files as presets and combined - count=126
+[17/10/2022 12:50:13]     Store presets
+[17/10/2022 12:50:13]     Store all presets - count=126 dbpath="C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\"
+[17/10/2022 12:50:13]         Store preset "Control Surface" - effect=1
+[17/10/2022 12:50:13]         Save "Control Surface": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Control Surface.fst"
+[17/10/2022 12:50:13]         Store preset "Distructor" - effect=1
+[17/10/2022 12:50:13]         Save "Distructor": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Distructor.fst"
+[17/10/2022 12:50:13]         Store preset "Edison" - effect=1
+[17/10/2022 12:50:13]         Save "Edison": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Edison.fst"
+[17/10/2022 12:50:13]         Store preset "Effector" - effect=1
+[17/10/2022 12:50:13]         Save "Effector": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Effector.fst"
+[17/10/2022 12:50:13]         Store preset "EQUO" - effect=1
+[17/10/2022 12:50:13]         Save "EQUO": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\EQUO.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity 7 Band EQ" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity 7 Band EQ": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity 7 Band EQ.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Balance" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Balance": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Balance.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Bass Boost" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Bass Boost": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Bass Boost.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Big Clock" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Big Clock": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Big Clock.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Blood Overdrive" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Blood Overdrive": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Blood Overdrive.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Center" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Center": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Center.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Chorus" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Chorus": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Chorus.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Compressor" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Compressor": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Compressor.fst"
+[17/10/2022 12:50:13]         Store preset "Fruity Convolver" - effect=1
+[17/10/2022 12:50:13]         Save "Fruity Convolver": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Convolver.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity dB Meter" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity dB Meter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity dB Meter.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Delay" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Delay": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Delay 2" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Delay 2": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay 2.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Delay 3" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Delay 3": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay 3.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Delay Bank" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Delay Bank": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Delay Bank.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Fast Dist" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Fast Dist": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Fast Dist.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Fast LP" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Fast LP": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Fast LP.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Filter" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Filter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Filter.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Flanger" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Flanger": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Flanger.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Flangus" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Flangus": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Flangus.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Formula Controller" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Formula Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Formula Controller.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Free Filter" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Free Filter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Free Filter.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity HTML NoteBook" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity HTML NoteBook": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity HTML NoteBook.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Limiter" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Limiter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Limiter.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Love Philter" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Love Philter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Love Philter.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity LSD" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity LSD": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity LSD.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Multiband Compressor" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Multiband Compressor": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Multiband Compressor.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity Mute 2" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity Mute 2": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Mute 2.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity NoteBook" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity NoteBook": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity NoteBook.fst"
+[17/10/2022 12:50:14]         Store preset "Fruity NoteBook 2" - effect=1
+[17/10/2022 12:50:14]         Save "Fruity NoteBook 2": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity NoteBook 2.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity PanOMatic" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity PanOMatic": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity PanOMatic.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Parametric EQ" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Parametric EQ": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Parametric EQ.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Parametric EQ 2" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Parametric EQ 2": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Parametric EQ 2.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Peak Controller" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Peak Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Peak Controller.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Phase Inverter" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Phase Inverter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Phase Inverter.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Phaser" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Phaser": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Phaser.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Reeverb" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Reeverb": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Reeverb.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Reeverb 2" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Reeverb 2": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Reeverb 2.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Scratcher" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Scratcher": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Scratcher.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Send" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Send": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Send.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Soft Clipper" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Soft Clipper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Soft Clipper.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Spectroman" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Spectroman": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Spectroman.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Squeeze" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Squeeze": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Squeeze.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Stereo Enhancer" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Stereo Enhancer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Stereo Enhancer.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Stereo Shaper" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Stereo Shaper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Stereo Shaper.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Vocoder" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Vocoder": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Vocoder.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity WaveShaper" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity WaveShaper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity WaveShaper.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity Wrapper" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity Wrapper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity Wrapper.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity X-Y Controller" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity X-Y Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity X-Y Controller.fst"
+[17/10/2022 12:50:15]         Store preset "Fruity X-Y-Z Controller" - effect=1
+[17/10/2022 12:50:15]         Save "Fruity X-Y-Z Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Fruity X-Y-Z Controller.fst"
+[17/10/2022 12:50:15]         Store preset "Gross Beat" - effect=1
+[17/10/2022 12:50:15]         Save "Gross Beat": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Gross Beat.fst"
+[17/10/2022 12:50:15]         Store preset "Hardcore" - effect=1
+[17/10/2022 12:50:15]         Save "Hardcore": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Hardcore.fst"
+[17/10/2022 12:50:15]         Store preset "Maximus" - effect=1
+[17/10/2022 12:50:15]         Save "Maximus": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Maximus.fst"
+[17/10/2022 12:50:15]         Store preset "Newtime" - effect=1
+[17/10/2022 12:50:15]         Save "Newtime": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Newtime.fst"
+[17/10/2022 12:50:15]         Store preset "Newtone" - effect=1
+[17/10/2022 12:50:15]         Save "Newtone": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Newtone.fst"
+[17/10/2022 12:50:16]         Store preset "Patcher" - effect=1
+[17/10/2022 12:50:16]         Save "Patcher": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Patcher.fst"
+[17/10/2022 12:50:16]         Store preset "Pitcher" - effect=1
+[17/10/2022 12:50:16]         Save "Pitcher": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Pitcher.fst"
+[17/10/2022 12:50:16]         Store preset "Razer Chroma" - effect=1
+[17/10/2022 12:50:16]         Save "Razer Chroma": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Razer Chroma.fst"
+[17/10/2022 12:50:16]         Store preset "Soundgoodizer" - effect=1
+[17/10/2022 12:50:16]         Save "Soundgoodizer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Soundgoodizer.fst"
+[17/10/2022 12:50:16]         Store preset "Transient Processor" - effect=1
+[17/10/2022 12:50:16]         Save "Transient Processor": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Transient Processor.fst"
+[17/10/2022 12:50:16]         Store preset "VFX Color Mapper" - effect=1
+[17/10/2022 12:50:16]         Save "VFX Color Mapper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Color Mapper.fst"
+[17/10/2022 12:50:16]         Store preset "VFX Envelope" - effect=1
+[17/10/2022 12:50:16]         Save "VFX Envelope": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Envelope.fst"
+[17/10/2022 12:50:16]         Store preset "VFX Key Mapper" - effect=1
+[17/10/2022 12:50:16]         Save "VFX Key Mapper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Key Mapper.fst"
+[17/10/2022 12:50:16]         Store preset "VFX Keyboard Splitter" - effect=1
+[17/10/2022 12:50:16]         Save "VFX Keyboard Splitter": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Keyboard Splitter.fst"
+[17/10/2022 12:50:16]         Store preset "VFX Level Scaler" - effect=1
+[17/10/2022 12:50:16]         Save "VFX Level Scaler": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\VFX Level Scaler.fst"
+[17/10/2022 12:50:16]         Store preset "Vocodex" - effect=1
+[17/10/2022 12:50:16]         Save "Vocodex": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Vocodex.fst"
+[17/10/2022 12:50:16]         Store preset "Wave Candy" - effect=1
+[17/10/2022 12:50:16]         Save "Wave Candy": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\Wave Candy.fst"
+[17/10/2022 12:50:16]         Store preset "ZGameEditor Visualizer" - effect=1
+[17/10/2022 12:50:16]         Save "ZGameEditor Visualizer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\Fruity\ZGameEditor Visualizer.fst"
+[17/10/2022 12:50:16]         Store preset "3x Osc" - effect=0
+[17/10/2022 12:50:16]         Save "3x Osc": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\3x Osc.fst"
+[17/10/2022 12:50:16]         Store preset "Autogun" - effect=0
+[17/10/2022 12:50:16]         Save "Autogun": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Autogun.fst"
+[17/10/2022 12:50:16]         Store preset "BassDrum" - effect=0
+[17/10/2022 12:50:16]         Save "BassDrum": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BassDrum.fst"
+[17/10/2022 12:50:16]         Store preset "BeepMap" - effect=0
+[17/10/2022 12:50:16]         Save "BeepMap": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BeepMap.fst"
+[17/10/2022 12:50:16]         Store preset "BooBass" - effect=0
+[17/10/2022 12:50:16]         Save "BooBass": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\BooBass.fst"
+[17/10/2022 12:50:16]         Store preset "Dashboard" - effect=0
+[17/10/2022 12:50:16]         Save "Dashboard": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Dashboard.fst"
+[17/10/2022 12:50:16]         Store preset "DirectWave" - effect=0
+[17/10/2022 12:50:16]         Save "DirectWave": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\DirectWave.fst"
+[17/10/2022 12:50:16]         Store preset "Drumaxx" - effect=0
+[17/10/2022 12:50:16]         Save "Drumaxx": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Drumaxx.fst"
+[17/10/2022 12:50:17]         Store preset "Drumpad" - effect=0
+[17/10/2022 12:50:17]         Save "Drumpad": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Drumpad.fst"
+[17/10/2022 12:50:17]         Store preset "FL Keys" - effect=0
+[17/10/2022 12:50:17]         Save "FL Keys": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Keys.fst"
+[17/10/2022 12:50:17]         Store preset "FL Slayer" - effect=0
+[17/10/2022 12:50:17]         Save "FL Slayer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Slayer.fst"
+[17/10/2022 12:50:17]         Store preset "FL Studio Mobile" - effect=0
+[17/10/2022 12:50:17]         Save "FL Studio Mobile": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FL Studio Mobile.fst"
+[17/10/2022 12:50:17]         Store preset "FLEX" - effect=0
+[17/10/2022 12:50:17]         Save "FLEX": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FLEX.fst"
+[17/10/2022 12:50:17]         Store preset "FPC" - effect=0
+[17/10/2022 12:50:17]         Save "FPC": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\FPC.fst"
+[17/10/2022 12:50:17]         Store preset "Fruit Kick" - effect=0
+[17/10/2022 12:50:17]         Save "Fruit Kick": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruit Kick.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Dance" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Dance": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Dance.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity DrumSynth Live" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity DrumSynth Live": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity DrumSynth Live.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity DX10" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity DX10": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity DX10.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Envelope Controller" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Envelope Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Envelope Controller.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Granulizer" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Granulizer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Granulizer.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Keyboard Controller" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Keyboard Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Keyboard Controller.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Slicer" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Slicer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Slicer.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Soundfont Player" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Soundfont Player": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Soundfont Player.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Video Player" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Video Player": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Video Player.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Voltage Controller" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Voltage Controller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Voltage Controller.fst"
+[17/10/2022 12:50:17]         Store preset "Fruity Wrapper" - effect=0
+[17/10/2022 12:50:17]         Save "Fruity Wrapper": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Fruity Wrapper.fst"
+[17/10/2022 12:50:17]         Store preset "GMS" - effect=0
+[17/10/2022 12:50:17]         Save "GMS": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\GMS.fst"
+[17/10/2022 12:50:17]         Store preset "Harmless" - effect=0
+[17/10/2022 12:50:17]         Save "Harmless": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Harmless.fst"
+[17/10/2022 12:50:18]         Store preset "Harmor" - effect=0
+[17/10/2022 12:50:18]         Save "Harmor": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Harmor.fst"
+[17/10/2022 12:50:18]         Store preset "MIDI Out" - effect=0
+[17/10/2022 12:50:18]         Save "MIDI Out": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\MIDI Out.fst"
+[17/10/2022 12:50:18]         Store preset "MiniSynth" - effect=0
+[17/10/2022 12:50:18]         Save "MiniSynth": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\MiniSynth.fst"
+[17/10/2022 12:50:18]         Store preset "Morphine" - effect=0
+[17/10/2022 12:50:18]         Save "Morphine": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Morphine.fst"
+[17/10/2022 12:50:18]         Store preset "Ogun" - effect=0
+[17/10/2022 12:50:18]         Save "Ogun": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Ogun.fst"
+[17/10/2022 12:50:18]         Store preset "Patcher" - effect=0
+[17/10/2022 12:50:18]         Save "Patcher": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Patcher.fst"
+[17/10/2022 12:50:18]         Store preset "Plucked!" - effect=0
+[17/10/2022 12:50:18]         Save "Plucked!": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Plucked!.fst"
+[17/10/2022 12:50:18]         Store preset "PoiZone" - effect=0
+[17/10/2022 12:50:18]         Save "PoiZone": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\PoiZone.fst"
+[17/10/2022 12:50:18]         Store preset "ReWired" - effect=0
+[17/10/2022 12:50:18]         Save "ReWired": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\ReWired.fst"
+[17/10/2022 12:50:18]         Store preset "Sakura" - effect=0
+[17/10/2022 12:50:18]         Save "Sakura": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sakura.fst"
+[17/10/2022 12:50:18]         Store preset "Sawer" - effect=0
+[17/10/2022 12:50:18]         Save "Sawer": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sawer.fst"
+[17/10/2022 12:50:18]         Store preset "SimSynth" - effect=0
+[17/10/2022 12:50:18]         Save "SimSynth": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\SimSynth.fst"
+[17/10/2022 12:50:18]         Store preset "Slicex" - effect=0
+[17/10/2022 12:50:18]         Save "Slicex": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Slicex.fst"
+[17/10/2022 12:50:18]         Store preset "Sytrus" - effect=0
+[17/10/2022 12:50:18]         Save "Sytrus": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Sytrus.fst"
+[17/10/2022 12:50:18]         Store preset "Toxic Biohazard" - effect=0
+[17/10/2022 12:50:18]         Save "Toxic Biohazard": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Toxic Biohazard.fst"
+[17/10/2022 12:50:18]         Store preset "Transistor Bass" - effect=0
+[17/10/2022 12:50:18]         Save "Transistor Bass": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Transistor Bass.fst"
+[17/10/2022 12:50:18]         Store preset "Wasp" - effect=0
+[17/10/2022 12:50:18]         Save "Wasp": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wasp.fst"
+[17/10/2022 12:50:18]         Store preset "Wasp XT" - effect=0
+[17/10/2022 12:50:18]         Save "Wasp XT": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wasp XT.fst"
+[17/10/2022 12:50:19]         Store preset "Wave Traveller" - effect=0
+[17/10/2022 12:50:19]         Save "Wave Traveller": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\Fruity\Wave Traveller.fst"
+[17/10/2022 12:50:19]         Store preset "FL Studio VSTi (multi)" - effect=0
+[17/10/2022 12:50:19]         Save "FL Studio VSTi (multi)": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\VST\FL Studio VSTi (multi).fst"
+[17/10/2022 12:50:19]         Store preset "FL Studio VSTi" - effect=0
+[17/10/2022 12:50:19]         Save "FL Studio VSTi": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Generators\VST\FL Studio VSTi.fst"
+[17/10/2022 12:50:19]         Store preset "Auto-Key" - effect=1
+[17/10/2022 12:50:19]         Save "Auto-Key": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Auto-Key.fst"
+[17/10/2022 12:50:19]         Store preset "Auto-Tune Access" - effect=1
+[17/10/2022 12:50:19]         Save "Auto-Tune Access": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Auto-Tune Access.fst"
+[17/10/2022 12:50:19]         Store preset "Auto-Tune Artist" - effect=1
+[17/10/2022 12:50:19]         Save "Auto-Tune Artist": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Auto-Tune Artist.fst"
+[17/10/2022 12:50:19]         Store preset "Auto-Tune EFX" - effect=1
+[17/10/2022 12:50:19]         Save "Auto-Tune EFX": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Auto-Tune EFX.fst"
+[17/10/2022 12:50:19]         Store preset "Auto-Tune Pro" - effect=1
+[17/10/2022 12:50:19]         Save "Auto-Tune Pro": created preset file "C:\Users\clors\Documents\Image-Line\FL Studio\Presets\Plugin database\Installed\Effects\VST3\Auto-Tune Pro.fst"
+[17/10/2022 12:50:19]         Finished (store all presets)
+[17/10/2022 12:50:19]     Store plugin IDs
+[17/10/2022 12:50:19]     Finished (Scan - internal)
+[17/10/2022 12:50:19] Thread terminated
+[17/10/2022 12:50:37] Application stopped
